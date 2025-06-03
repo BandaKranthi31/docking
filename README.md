@@ -2,6 +2,7 @@
 Thanks for coming! we will be documenting our journey here—you'll learn a lot of cool stuff along the way.
 
 What is Docker?
+
 Docker is an open-source platform that enables developers to package applications along with their dependencies into containers. These containers can be easily moved, shared, and run on any system with Docker installed, simplifying the development process and ensuring consistency across different environments.
 
 What os docker compose?
